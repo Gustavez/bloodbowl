@@ -1,0 +1,4 @@
+rootProject.name = 'bloodbowl'
+include "bb-config-service"
+include "bb-team-builder-api"
+

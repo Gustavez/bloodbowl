@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bb-config-service/bb-config-service.iml" filepath="$PROJECT_DIR$/bb-config-service/bb-config-service.iml" group="bb-config-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bb-config-service/bb-config-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bb-config-service/bb-config-service_main.iml" group="bb-config-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bb-config-service/bb-config-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bb-config-service/bb-config-service_test.iml" group="bb-config-service" />
+      <module fileurl="file://$PROJECT_DIR$/bb-team-builder-api/bb-team-builder-api.iml" filepath="$PROJECT_DIR$/bb-team-builder-api/bb-team-builder-api.iml" group="bb-team-builder-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bb-team-builder-api/bb-team-builder-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bb-team-builder-api/bb-team-builder-api_main.iml" group="bb-team-builder-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bb-team-builder-api/bb-team-builder-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bb-team-builder-api/bb-team-builder-api_test.iml" group="bb-team-builder-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bloodbowl.iml" filepath="$PROJECT_DIR$/.idea/modules/bloodbowl.iml" />
+    </modules>
+  </component>
+</project>
